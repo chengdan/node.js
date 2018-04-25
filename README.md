@@ -10,7 +10,7 @@
     1.  直接手动生成
     ```json
     {
-      "name": "04.23",
+      "name": "04.24",
       "version": "1.0.0",
       "description": "",
       "main": "index.js",
